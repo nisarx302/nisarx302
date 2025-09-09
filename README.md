@@ -260,10 +260,10 @@
 
 <!--START_QUOTE_SECTION-->
 <div align="center">
-  <h1>✨ Quote of the Day ✨</h1>
-  <p><em>"اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"</em></p>
-  <p><strong>— احمد فراز</strong></p>
-  <!-- Last updated on: 2025-09-09 18:40:51 PKT -->
+  <h3>✨ Quote of the Day ✨</h3>
+  <p><em>"بہت نزدیک آتی جا رہی ہو بچھڑنے کا ارادہ کر لیا کیا"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-09 22:27:30 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
