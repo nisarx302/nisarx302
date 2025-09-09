@@ -9,15 +9,15 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saeedxalive&style=for-the-badge&color=red" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/saeedxalive?style=for-the-badge&color=red" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/saeedxalive?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=nisarx302&style=for-the-badge&color=red" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/nisarx302?style=for-the-badge&color=red" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/nisarx302?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 
 <div align="center">
   
-![](https://count.getloli.com/@Saeedxalive?name=Saeedx96&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@nisarx302?name=Saeedx96&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
   
 </div>
 
@@ -115,12 +115,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saeedxalive&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisarx302&show_icons=true&theme=radical&hide_border=true" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saeedxalive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisarx302&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedxalive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarx302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
 
 ---
 
@@ -202,10 +202,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeedxalive&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisarx302&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
 </div>
 
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saeedxalive&theme=default&utcOffset=5)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisarx302&theme=default&utcOffset=5)
 
 ---
 
@@ -260,10 +260,10 @@
 
 <!--START_QUOTE_SECTION-->
 <div align="center">
-  <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کچھ تو ہوا بھی سرد تھی کچھ تھا ترا خیال بھی دل کو خوشی کے ساتھ ساتھ ہوتا رہا ملال بھی"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 22:13:24 PKT -->
+  <h1>✨ Quote of the Day ✨</h1>
+  <p><em>"اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"</em></p>
+  <p><strong>— احمد فراز</strong></p>
+  <!-- Last updated on: 2025-09-09 18:40:51 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
