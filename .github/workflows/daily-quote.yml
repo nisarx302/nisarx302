@@ -1,0 +1,84 @@
+name: Update Daily Quote 📜
+
+on:
+  schedule:
+    # Har minute run hoga testing ke liye
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_readme_with_quote:
+    name: Update README with a new quote
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies 📦
+        run: pip install requests pytz
+
+      - name: Fetch Quote & Update README ✍️
+        run: |
+          import requests
+          import re
+          from datetime import datetime
+          import pytz
+
+          try:
+            # API se quote fetch karein
+            response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
+            response.raise_for_status()
+            data = response.json()
+            quote = data.get("quote", "Could not fetch a quote today.")
+            author = data.get("author", "Unknown")
+            
+            # --- YEH SECTION BADAL DIYA GAYA HAI (THIS SECTION HAS BEEN CHANGED) ---
+            # Timezone set karein (PKT)
+            tz = pytz.timezone('Asia/Karachi')
+            timestamp = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S %Z')
+            
+            # HTML string ko line-by-line banayein
+            html_line_1 = '<div align="center">'
+            html_line_2 = '  <h3>✨ Quote of the Day ✨</h3>'
+            html_line_3 = f'  <p><em>"{quote}"</em></p>'
+            html_line_4 = f'  <p><strong>— {author}</strong></p>'
+            html_line_5 = f'  <!-- Last updated on: {timestamp} -->' # Chupa hua timestamp
+            html_line_6 = '</div>'
+            new_quote_html = "\n".join([html_line_1, html_line_2, html_line_3, html_line_4, html_line_5, html_line_6])
+            # --- CHANGE ENDS HERE ---
+
+            # README file read karein
+            with open("README.md", "r", encoding="utf-8") as file:
+                content = file.read()
+
+            # Markers ke beech ka content replace karein
+            start_marker = "<!--START_QUOTE_SECTION-->"
+            end_marker = "<!--END_QUOTE_SECTION-->"
+            
+            updated_content = re.sub(f"({re.escape(start_marker)})(.*?)({re.escape(end_marker)})", f"\\1\n{new_quote_html}\n\\3", content, flags=re.DOTALL)
+
+            # README file mein wapis write karein
+            with open("README.md", "w", encoding="utf-8") as file:
+                file.write(updated_content)
+            
+            print(f"README updated successfully at {timestamp}!")
+
+          except Exception as e:
+            print(f"An error occurred: {e}")
+
+        shell: python
+
+      - name: Commit and Push Changes 🚀
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📝 Chore: Updated daily quote"
+          branch: main
+          file_pattern: README.md
