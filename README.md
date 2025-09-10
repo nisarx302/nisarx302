@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"بہت نزدیک آتی جا رہی ہو بچھڑنے کا ارادہ کر لیا کیا"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 22:27:30 PKT -->
+  <p><em>"ہم کو معلوم ہے جنت کی حقیقت لیکن دل کے خوش رکھنے کو غالبؔ یہ خیال اچھا ہے"</em></p>
+  <p><strong>— مرزا غالب</strong></p>
+  <!-- Last updated on: 2025-09-10 06:21:27 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
