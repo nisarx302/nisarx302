@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"ہم کو معلوم ہے جنت کی حقیقت لیکن دل کے خوش رکھنے کو غالبؔ یہ خیال اچھا ہے"</em></p>
-  <p><strong>— مرزا غالب</strong></p>
-  <!-- Last updated on: 2025-09-10 06:21:27 PKT -->
+  <p><em>"بے دلی! کیا یوں ہی دن گزر جائیں گے صرف زندہ رہے ہم تو مر جائیں گے"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-10 17:37:41 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
