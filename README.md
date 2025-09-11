@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"بے دلی! کیا یوں ہی دن گزر جائیں گے صرف زندہ رہے ہم تو مر جائیں گے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-10 17:37:41 PKT -->
+  <p><em>"کچھ اس طرح سے سودا کیا مجھ سے میرے وقت نے تجربے دے کر میری ساری معصومیت لے گیا"</em></p>
+  <p><strong>— 𝙎คAEED✘🫀</strong></p>
+  <!-- Last updated on: 2025-09-11 06:23:37 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
