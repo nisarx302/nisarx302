@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"اور کیا دیکھنے کو باقی ہے آپ سے دل لگا کے دیکھ لیا"</em></p>
-  <p><strong>— فیض احمد فیض</strong></p>
-  <!-- Last updated on: 2025-09-11 17:37:01 PKT -->
+  <p><em>"کیا کہیں کتنے مراسم تھے ہمارے اس سے وہ جو اک شخص ہے منہ پھیر کے جانے والا"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-12 06:20:31 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
