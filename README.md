@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کیا کہیں کتنے مراسم تھے ہمارے اس سے وہ جو اک شخص ہے منہ پھیر کے جانے والا"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-12 06:20:31 PKT -->
+  <p><em>"تو خدا ہے نہ مرا عشق فرشتوں جیسا دونوں انساں ہیں تو کیوں اتنے حجابوں میں ملیں"</em></p>
+  <p><strong>— احمد فراز</strong></p>
+  <!-- Last updated on: 2025-09-12 17:36:35 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
